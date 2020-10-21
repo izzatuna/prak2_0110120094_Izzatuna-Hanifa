@@ -1,0 +1,1 @@
+print(abs(round(12 - 17)))
